@@ -1,0 +1,32 @@
+
+  
+  .navbar{
+    margin-top: 3%;
+    position: center;
+  }
+
+  .layout{
+    display:flex;
+    align-items: center;
+    margin-top: 2%;
+    height: 25%;
+  }
+
+  .card-img-top{
+    scale: 90%
+    ;
+  }
+
+
+  #row2{
+    margin-top: 2vw;
+  }
+
+  .row{
+    margin-top: 2vw;
+  }
+
+  #searchbar{
+    border-color: black;
+  }
+ 
