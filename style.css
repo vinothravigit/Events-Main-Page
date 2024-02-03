@@ -1,7 +1,7 @@
 
   
   .navbar{
-    margin-top: 3%;
+    margin-top: 2%;
     position: center;
   }
 
@@ -28,5 +28,17 @@
 
   #searchbar{
     border-color: black;
+  }
+
+  .container{
+    display: grid;
+    justify-content: center;
+  }
+
+  @media only screen and (max-width: 760px) {
+    /* For mobile phones: */
+    [class*="container"] {
+      width: 50%;
+    }
   }
  
